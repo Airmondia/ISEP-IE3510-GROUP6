@@ -1,10 +1,14 @@
 # ISEP-IE3510-GROUP6
 
 ---------------------------------------------------------------
-For the class IE.3510 CONTRAINTES ET IMPLEMENTATION DE SYSTEME
+For the class 
+
+IE.3510 CONTRAINTES ET IMPLEMENTATION DE SYSTEME
 
 Made by GROUP6
-	
+
+----------------------------------------------------------------
+
 #Mugular	Baptiste	
 
 #Bringi Ramakannu Harish Kumar	
